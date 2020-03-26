@@ -6,11 +6,11 @@
 
 ## Introduction
 
-:woman::skin-tone-4: Hi, Karen Cumlat here. I am a new intern from the Digital Design and Development Program at British Columbia Institute of Technology. I have experience in both design and development and I am excited to work with you all.
+:woman: Hi, Karen Cumlat here. I am a new intern from the Digital Design and Development Program at British Columbia Institute of Technology. I have experience in both design and development and I am excited to work with you all.
 
 :house: Born and raised in the Philippines and moved to Vancouver in 2016.
 
-:female-technologist::skin-tone-4: I started my journey in the technology industry by taking an information technology program back home in the PH.
+:school: I started my journey in the technology industry by taking an information technology program back home in the PH.
 
 :green_salad: After moving to Vancouver, I shift to the retail industry and work as a salad bar clerk (still working part-time).
 
