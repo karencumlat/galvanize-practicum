@@ -14,5 +14,4 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 theme: jekyll-theme-minimal
-title: kc @ gvz
-logo: "images/icon.png?raw=true"
+title: kc@gvz
