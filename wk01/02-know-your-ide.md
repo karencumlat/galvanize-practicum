@@ -13,7 +13,7 @@
 
 ## Shortcuts
 
-* <https://code.visualstudio.com/docs/getstarted/tips-and-tricks>
+[VS code Docs - Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
 
 | Keyboard Shortcut  |   Action|
 |--------------------|---------|
@@ -27,7 +27,7 @@
 |Shift + ↓|Select code line down|
 |Ctrl + J|Toggle Panel (Problems, Output, Debug Console, Terminal)|
 |Ctrl + P|Search for file|
-|Ctrl + \ |Split editor layout|
+|Ctrl + \ | Split editor layout|
 |Ctrl + W|Close current window|
 |Ctrl + N|Open new file|
 |Alt + Shift + ↑|Copy current line, insert before|

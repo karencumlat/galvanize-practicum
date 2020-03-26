@@ -2,7 +2,7 @@
 
 * Twitter @karencumlat_
 
-* GitHub repo galvanize_practicum
+* GitHub Repository: galvanize_practicum
 
 ## Introduction
 
