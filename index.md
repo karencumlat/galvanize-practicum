@@ -1,12 +1,26 @@
-# 12 Week Practicum
+# Galvanize Practicum
 
-Documentation of my practicum with Galvanize
+## Today's Stand-up
 
-## Week 01
+### Yesterday
 
-* [Setup](wk01/01-setup.md)
-* [Know Your IDE - VS code](wk01/02-know-your-ide.md)
-* [GitHub Basic](wk01/03-basic-github.md)
-* [Asking for Help](wk01/04-asking-for-help.md)
-* [Write Code Review](wk01/05-write-code-review.md)
-* [Pair Programming](wk01/06-pair-programming.md)
+- [x] Setup [galvanize-practicum](https://karencumlat.github.io/galvanize-practicum/) GitHub Pages
+- [x] Starling Day
+  - [x] Discuss Paprika and Design System
+- [x] Watch *Asking for help* YouTube video
+- [x] How to do code review
+
+### Today
+
+- [ ] Console.log vs Debugger
+- [ ] Learn about Pair Programming
+- [ ] Read Starling Design System
+- [ ] Read Paprika Wiki
+
+&nbsp;&nbsp;
+| Week  | Stand-up  |[Documentation](documentation.md)|
+|-------|-----------|---------------------------------|
+|01 | March 24 | [Setup](wk01/01-setup.md)
+|| [March 25](stand-up/03-25.md)| [Know Your IDE - VS code](wk01/02-know-your-ide.md)|
+| | | [GitHub Basic](wk01/03-basic-github.md)|
+| | [March 26](stand-up/03-26.md)| |
