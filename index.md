@@ -1,21 +1,6 @@
 # Galvanize Practicum
 
-## Today's Stand-up
-
-### Yesterday
-
-- [x] Setup [galvanize-practicum](https://karencumlat.github.io/galvanize-practicum/) GitHub Pages
-- [x] Starling Day
-  - [x] Discuss Paprika and Design System
-- [x] Watch *Asking for help* YouTube video
-- [x] How to do code review
-
-### Today
-
-- [ ] Console.log vs Debugger
-- [ ] Learn about Pair Programming
-- [ ] Read Starling Design System
-- [ ] Read Paprika Wiki
+## Have a great weekend :wave:
 
 | Week  | Stand-up  |[Documentation](documentation.md)|
 |-------|-----------|---------------------------------|
