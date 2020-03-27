@@ -4,18 +4,18 @@
 
 ### Yesterday
 
-[x] Setup [galvanize-practicum](https://karencumlat.github.io/galvanize-practicum/) GitHub Pages
-[x] Starling Day
-  [x] Discuss Paprika and Design System
-[x] Watch *Asking for help* YouTube video
-[x] How to do code review
+- [x] Setup [galvanize-practicum](https://karencumlat.github.io/galvanize-practicum/) GitHub Pages
+- [x] Starling Day
+  - [x] Discuss Paprika and Design System
+- [x] Watch *Asking for help* YouTube video
+- [x] How to do code review
 
 ### Today
 
-[ ] Console.log vs Debugger
-[ ] Learn about Pair Programming
-[ ] Read Starling Design System
-[ ] Read Paprika Wiki
+- [ ] Console.log vs Debugger
+- [ ] Learn about Pair Programming
+- [ ] Read Starling Design System
+- [ ] Read Paprika Wiki
 
 | Week  | Stand-up  |[Documentation](documentation.md)|
 |-------|-----------|---------------------------------|
