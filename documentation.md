@@ -7,3 +7,7 @@
 * [GitHub Basic](wk01/basic-github.md)
 * [Pair Programming](wk01/pair-programming.md)
 * [Console vs Debugger](wk01/console-vs-debugger.md)
+
+## Week 02
+
+* [JavaScript](wk02/javascript.md)
