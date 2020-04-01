@@ -83,11 +83,22 @@ function createParagraph() {
 
 ### Variable
 
-* Declaration - introduces a new identifier
+* Declaration - create or declare a variable
 
 ```javascript
 var var_name;
 ```
+
+* Naming Rules
+  * Generally, ues Latin characters (0-9,a-z,A-Z) and _ character
+  * Don't use _ character at the start of variable names
+  * Don't use numbers at the start of variables.
+  * Use **lower camel case** lowerCamelCase
+  * Make variable names intuitive, so they describe the data they contain
+  * Variables are case sensitive. `myage` is different from `myAge`
+  * Avoid using JavaScript reserved words as your variable names
+
+    ![JavaScript reserved words](https://www.oreilly.com/library/view/javascript-visual-quickstart/9780132735483/graphics/t0478-01.jpg)
 
 * Initialization - assign a value to a variable
 
@@ -95,23 +106,20 @@ var var_name;
 var_name = "This is an assigned value";
 ```
 
+```javascript
+// Declare and initialize a variable
+var var_name = 'var_value';
+```
+
 * Scope - defines where a variables and functions are accessible inside a program
   * Global scope - variable created as members of the global object
   * Function scope - variable occurs inside a function declaration
-
-### var vs let vs const
-
-* var - function scope
-* let - block scope {}
-* const - once a value is assigned, cannot reassign new value
 
 ## Videos
 
 [Brandon Eich - A Brief History of JavaScript](https://www.youtube.com/watch?v=aX3ZABCdC38)
 
 [The Weird History of JavaScript](https://www.youtube.com/watch?v=Sh6lK57Cuk4)
-
-[var, let and const - What, why and how - ES6 JavaScript Features](https://www.youtube.com/watch?v=sjyJBL5fkp8) by Fun Fun Function
 
 ## Articles
 
