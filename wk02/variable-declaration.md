@@ -44,3 +44,7 @@ const pi = "3.14159";
 [var vs let vs const: Variable declarations in ES6 | ES2015](https://www.youtube.com/watch?v=6vBYfLCE9-Q&feature=emb_title) by Tyler McGinnis
 
 [var, let and const - What, why and how - ES6 JavaScript Features](https://www.youtube.com/watch?v=sjyJBL5fkp8) by Fun Fun Function
+
+[On let vs const](https://overreacted.io/on-let-vs-const/)
+
+[Why is var not deprecated](https://stackoverflow.com/questions/47465515/why-is-var-not-deprecated)

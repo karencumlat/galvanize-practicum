@@ -42,15 +42,15 @@ switch (expression) {
 
 ![Loop: a farmer making sure he has enough food to feed his family for the week](https://mdn.mozillademos.org/files/13755/loop_js-02-farm.png)
 
-### for loop
+### **for** loop repeats until a specified condition evaluates to false
 
 ```javascript
-for (initializer; exit-condition; final-expression) {
+for ([initialExpression]; [condition]; [incrementExpression]) {
   // code to run
 }
 ```
 
-### while
+### **while** statement executes its statements as long as a specified condition evaluates to true
 
 ```javascript
 initializer
@@ -61,15 +61,12 @@ while (exit-condition) {
 }
 ```
 
-### while and do ... while
+### **do...while** statement repeats until a specified condition evaluates to false
 
 ```javascript
-initializer
-while (exit-condition) {
-  // code to run
-
-  final-expression
-}
+do
+  // statement is always executed once before the condition is checked.
+while (condition);
 ```
 
 ## Videos
