@@ -1,17 +1,6 @@
 # Galvanize Practicum
 
-## Yesterday
-
-- [x] Read about linting
-- [x] Rest parameter
-- [x] Function declaration vs expression vs arrow
-- [ ] Functional programming
-  - [x] Higher-order function
-  
-## Today
-
-- [ ] cont. ES6 features
-- [ ] cont. Functional Programming
+## Have a good weekend :wave:
 
 | Week | Stand-up                      | [Documentation](documentation.md)                        |
 | ---- | ----------------------------- | -------------------------------------------------------- |
@@ -24,8 +13,8 @@
 |      |                               | [Variable Declaration](wk02/variable-declaration.md)     |
 |      | [March 31](stand-up/03-31.md) | [String](wk02/string.md)                                 |
 |      |                               | [Array Method](wk02/array.md)                            |
-|      |                               | [Conditionals](wk02/conditionals.md)                     |
+|      |                               | [Conditionals](wk02/conditional.md)                      |
 |      | [April 01](stand-up/04-01.md) | [Function](wk02/function.md)                             |
 |      |                               | [Functional Programming](wk02/functional-programming.md) |
 |      | [April 02](stand-up/04-02.md) |                                                          |
-|      | [April 03]                    |                                                          |
+|      | [April 03](stand-up/04.03.md) |                                                          |
