@@ -17,4 +17,4 @@
 |      | [April 01](stand-up/04-01.md) | [Function](wk02/function.md)                             |
 |      |                               | [Functional Programming](wk02/functional-programming.md) |
 |      | [April 02](stand-up/04-02.md) |                                                          |
-|      | [April 03](stand-up/04.03.md) |                                                          |
+|      | [April 03](stand-up/04-03.md) |                                                          |
