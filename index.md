@@ -1,6 +1,27 @@
 # Galvanize Practicum
 
-## Have a good weekend :wave:
+## Hello :wave:
+
+## Yesterday
+
+- [x] Create React App
+- [x] npm
+- [x] package.js
+- [ ] node modules
+- [x] ~, ^, \*
+- [ ] Webpack
+- [x] The Melting Pot of JavaScript YT video
+- [x] JavaScript for React Developers YT video
+
+## Today
+
+- [ ] cont. node modules
+- [ ] cont. webpack
+- [ ] Babel
+- [ ] Prettier and eslint
+- [ ] Accessibility aria
+- [ ] Import and export files ES Modules
+- [ ] On the spectrum of abstraction YT video
 
 | Week | Stand-up                      | [Documentation](documentation.md)                        |
 | ---- | ----------------------------- | -------------------------------------------------------- |
@@ -18,3 +39,5 @@
 |      |                               | [Functional Programming](wk02/functional-programming.md) |
 |      | [April 02](stand-up/04-02.md) |                                                          |
 |      | [April 03](stand-up/04-03.md) |                                                          |
+| 03   | [April 06](stand-up/04-06.md) | [React](wk03/react.md)                                   |
+|      | [April 07](stand-up/04-07.md) |                                                          |
