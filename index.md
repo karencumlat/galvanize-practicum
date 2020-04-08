@@ -39,5 +39,7 @@
 |      |                               | [Functional Programming](wk02/functional-programming.md) |
 |      | [April 02](stand-up/04-02.md) |                                                          |
 |      | [April 03](stand-up/04-03.md) |                                                          |
-| 03   | [April 06](stand-up/04-06.md) | [React](wk03/react.md)                                   |
-|      | [April 07](stand-up/04-07.md) |                                                          |
+| 03   | [April 06](stand-up/04-06.md) | [npm](wk03/npm.md)                                       |
+|      | [April 07](stand-up/04-07.md) | [webpack, create-react-app](wk03/webpack-vs-cra.md)      |
+|      |                               | [Web Dev Setup using WSL](wk03/wsl-web-dev-setup.md)     |
+|      | [April 08]                    |                                                          |
