@@ -35,4 +35,4 @@
 | 03   | [April 06](stand-up/04-06.md) | [npm](wk03/npm.md)                                       |
 |      | [April 07](stand-up/04-07.md) | [webpack, create-react-app](wk03/webpack-vs-cra.md)      |
 |      |                               | [Web Dev Setup using WSL](wk03/wsl-web-dev-setup.md)     |
-|      | [April 08]                    |                                                          |
+|      | [April 08](stand-up/04-08.md) | [TC39 Process](wk03/tc39.md)                             |
