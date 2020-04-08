@@ -4,21 +4,14 @@
 
 ## Yesterday
 
-- [x] Create React App
-- [x] npm
-- [x] package.js
-- [ ] node modules
-- [x] ~, ^, \*
-- [ ] Webpack
-- [x] The Melting Pot of JavaScript YT video
-- [x] JavaScript for React Developers YT video
+- [x] BEST Web Dev Setup? Windows & Linux at the same time (WSL) YT video
+  - [x] Setup WSL (own computer)
+- [x] webpack, create-react-app
+- [x] Prettier and eslint
 
 ## Today
 
-- [ ] cont. node modules
-- [ ] cont. webpack
 - [ ] Babel
-- [ ] Prettier and eslint
 - [ ] Accessibility aria
 - [ ] Import and export files ES Modules
 - [ ] On the spectrum of abstraction YT video
