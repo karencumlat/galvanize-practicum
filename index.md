@@ -2,8 +2,6 @@
 
 ## Hello :wave:
 
-## Yesterday
-
 | Week | Stand-up                      | [Documentation](documentation.md)                         |
 | ---- | ----------------------------- | --------------------------------------------------------- |
 | 01   | March 24                      | [Setup](wk01/setup.md)                                    |
