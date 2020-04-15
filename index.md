@@ -26,3 +26,5 @@
 |      |                               | [Babel](wk03/babel.md)                                    |
 |      |                               | [Accessibility: WAI-ARIA Overview](wk03/accessibility.md) |
 |      | [April 09](stand-up/04-09.md) | [Automated Testing](wk03/automated-testing.md)            |
+| 04   | [April 13](stand-up/04-13.md) | [Paprika - Button Comp Testing](wk04/paprika.md)          |
+|      | [April 14](stand-up/04-14.md) |                                                           |
