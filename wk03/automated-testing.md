@@ -4,7 +4,7 @@
 
 ![React Testing Library](https://kentcdodds.com/static/738c6a00f2f5e150ece90e3d1d912cb5/750d2/0.png)
 
-```
+```bash
 npm install --save-dev @testing-library/react
 ```
 
@@ -14,12 +14,18 @@ The `react-testing-library` is a very light-weight solution for testing React co
 
 > The more your tests resemble the way your software is used, the more confidence they can give you.
 
-### What this library is not:
+### What this library is not
 
 1. A test runner or framework
 2. Specific to a testing framework (though we recommend Jest as our preference, the library works with any framework, and even in codesandbox!)
 
 [What is React Testing Library Video](https://github.com/facebook/jest/raw/master/website/static/img/jest-readme-headline.png)
+
+[Writing Better Test Results - Time to React - December 2019](https://www.youtube.com/watch?v=O0VxvRqgm7g&t=199s)
+
+[DOM Testing Library Cheatsheet](https://testing-library.com/docs/dom-testing-library/cheatsheet)
+
+![React Testing Library Cheatsheet](../imgs/react-testing-library.jpg)
 
 ## Jest
 
@@ -37,17 +43,19 @@ The `react-testing-library` is a very light-weight solution for testing React co
 
 ### Installation
 
-Intall via `yarn`
+Install via `yarn`
 
-```
+```bash
 yarn add --dev jest
 ```
 
 Install via `npm`
 
-```
+```bash
 npm install --save-dev jest
 ```
+
+[Jest Cheatsheet](https://devhints.io/jest)
 
 ## Cypress
 
@@ -66,7 +74,7 @@ Cypress make it possible to:
 - Run tests
 - Debug Tests
 
-### Who uses Cypress?
+### Who uses Cypress
 
 Our users are typically developers or QA engineers building web applications using modern JavaScript frameworks.
 
@@ -80,12 +88,12 @@ Cypress enables you to write all types of tests:
 
 Install via `npm`
 
-```
+```bash
 npm install cypress --save-dev
 ```
 
 Install via `yarn`
 
-```
+```bash
 yarn add cypress --dev
 ```
