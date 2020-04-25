@@ -35,3 +35,4 @@
 |      | [April 21](stand-up/04-21.md) |                                                                             |
 |      | [April 22](stand-up/04-22.md) | [Four Types of Tests](wk05/four-types-of-tests.md)                          |
 |      | [April 23](stand-up/04-23.md) | [DataGrid Test](wk05/datagrid-test.md)                                      |
+|      | [April 24](stand-up/04-24.md) |               |

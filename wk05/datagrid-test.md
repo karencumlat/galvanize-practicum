@@ -24,8 +24,8 @@
 | ----- | ---- | ---------------------------------------------------------------------------------------- |
 | 1\*   | S    | Does the table, columns, headers and cell render/display                                 |
 | 2     | S    | Does the data display inside the cells                                                   |
-| 3 \*  | S    | Do customs styles display                                                                |
-| 4     | J    | Does custom cell content work                                                            |
+| 3 \*    | J    | Does custom cell content work                                                            |
+| 4   | S    | Do customs styles display                                                                |
 | 5\*   | S    | Does isSticky create a new sticky header                                                 |
 | 6     | C    | Does focus cell apply autofocus correctly                                                |
 | 7 \*  | C    | Does the table include the indicator and/or expandable when added and on hover           |
