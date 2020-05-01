@@ -34,5 +34,10 @@
 | 05   | [April 20](stand-up/04-20.md) |                                                                             |
 |      | [April 21](stand-up/04-21.md) |                                                                             |
 |      | [April 22](stand-up/04-22.md) | [Four Types of Tests](wk05/four-types-of-tests.md)                          |
-|      | [April 23](stand-up/04-23.md) | [DataGrid Test](wk05/datagrid-test.md)                                      |
-|      | [April 24](stand-up/04-24.md) |               |
+|      | [April 23](stand-up/04-23.md) | [DataGrid](wk05/datagrid.md)                                                |
+|      | [April 24](stand-up/04-24.md) |                                                                             |
+| 06   | [April 27]                    |                                                                             |
+|      | [April 28]                    | [DataGrid Test](wk06/datagrid-test.md)                                      |
+|      | [April 29](stand-up/04-29.md) | [Cypress Commands](wk06/cypress-commands.md)                                |
+|      | [April 30]                    | Fix Readme comments, Review DataGrid test                                   |
+|      | [May 01]                      |                                                                             |
