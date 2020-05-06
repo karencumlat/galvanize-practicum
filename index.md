@@ -41,3 +41,5 @@
 |      | [April 29](stand-up/04-29.md) | [Cypress Commands](wk06/cypress-commands.md)                                |
 |      | [April 30]                    | Fix Readme comments, Review DataGrid test                                   |
 |      | [May 01]                      |                                                                             |
+| 07   | [May 04](stand-up/05-04.md)   | [ActionBar](wk07/actionbar.md)                                              |
+|      | [May 05]                      | Write Unit test for Filter (Jest) and E2E test (Cypress)                    |
