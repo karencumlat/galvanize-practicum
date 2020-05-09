@@ -33,7 +33,7 @@
 |      | [April 17](stand-up/04-17.md) |                                                                             |
 | 05   | [April 20](stand-up/04-20.md) |                                                                             |
 |      | [April 21](stand-up/04-21.md) |                                                                             |
-|      | [April 22](stand-up/04-22.md) | [Four Types of Tests](wk05/four-types-of-tests.md)                          |
+|      | [April 22](stand-up/04-22.md) | [Four Types of Test](wk05/four-types-of-test.md)                            |
 |      | [April 23](stand-up/04-23.md) | [DataGrid](wk05/datagrid.md)                                                |
 |      | [April 24](stand-up/04-24.md) |                                                                             |
 | 06   | [April 27]                    |                                                                             |

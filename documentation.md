@@ -32,3 +32,18 @@
 ## Week 04
 
 - [Paprika - Button Comp Testing](wk04/paprika.md)
+
+## Week 05
+
+- [Four Types of Test](wk05/four-typeS-of-test.md)
+- [DataGrid](wk05/datagrid.md)
+
+## Week 06
+
+- [DataGrid Test](wk06/datagrid-test.md)
+- [Cypress Commands](wk06/cypress-commands.md)
+
+## Week 07
+
+- [ActionBar](wk07/actionbar.md)
+- [ListBox](wk07/listbox.md)
