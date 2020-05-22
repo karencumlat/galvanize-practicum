@@ -40,9 +40,20 @@
 |      | [April 28]                    | [DataGrid Test](wk06/datagrid-test.md)                                      |
 |      | [April 29](stand-up/04-29.md) | [Cypress Commands](wk06/cypress-commands.md)                                |
 |      | [April 30]                    | Fix Readme comments, Review DataGrid test                                   |
-|      | [May 01]                      |                                                                             |
+|      | [May 01]                      | [Conventional Commits](https://conventionalcomments.org/)                   |
 | 07   | [May 04](stand-up/05-04.md)   | [ActionBar](wk07/actionbar.md)                                              |
 |      | [May 05]                      | Write Unit test for Filter (Jest) and E2E test (Cypress)                    |
 |      | [May 06]                      | cont. Unit test for ActionBar (Sort)                                        |
 |      | [May 07]                      | [ListBox mdx](wk07/listbox.md)                                              |
 |      | [May 08]                      | cont. ListBox mdx and ActionBar test                                        |
+| 08   | [May 11]                      | Create ActionBar test PR, Read Paprika wiki, Fix changes ListBox mdx        |
+|      | [May 12]                      | Meeting for Card and Avatar Component                                       |
+|      | [May 13]                      | Setup `<Card/>` file structure file                                         |
+|      | [May 14](stand-up/05-14.md)   | Create `<Card/>` sub-components                                             |
+|      | [May 15]                      | cont. working on `<Card/>`                                                  |
+| 09   | [May 19]                      | ShopTalk, `<Card/>` convert css to styled components                        |
+|      | [May 20](stand-up/05-20.md)   | Update `<Card/>` stories                                                    |
+|      | [May 21]                      | [Truncate](wk09/truncate.md)                                                |
+|      |                               | Randomize `<Avatar>` background color                                       |
+|      |                               | `<Card/>` screener test                                                     |
+|      | [May 22]                      | Create PR for `<Card/>`                                                     |
