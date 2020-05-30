@@ -57,3 +57,8 @@
 |      |                               | Randomize `<Avatar>` background color                                       |
 |      |                               | `<Card/>` screener test                                                     |
 |      | [May 22]                      | Create PR for `<Card/>`                                                     |
+| 10   | [May 25]                      | fix: `<Card/>` & issue#330 dropdown menu on overflow                        |
+|      | [May 26](stand-up/05-26.md)   | Create PR for STAR-235-DropdownMenu-scroll-onOverflow                       |
+|      | [May 27](stand-up/05-27.md)   | Check old PR for DataGrid, test failing                                     |
+|      | [May 28]                      | test: fix DataGrid test using key events                                    |
+|      | [May 29]                      |                                                                             |
