@@ -47,3 +47,15 @@
 
 - [ActionBar](wk07/actionbar.md)
 - [ListBox](wk07/listbox.md)
+
+## Week 08
+
+- [Card](wk08/card.md)
+
+## Week 09
+
+- [Truncate](wk09/truncate.md)
+
+## Week 10
+
+- [DropdownMenu](wk10/dropdownmenu.md)
